@@ -1,0 +1,56 @@
+{
+  "market_regime": {
+    "risk_mode": "Risk-Off",
+    "volatility": "Elevated"
+  },
+
+  "eurusd_value": {
+    "fair_value": 1.0820,
+    "spot": 1.0895,
+    "deviation_pct": 0.69,
+    "valuation": "Overvalued"
+  },
+
+  "trader_focus": {
+    "theme": "Market focused on US labor market and Fed reaction"
+  },
+
+  "todays_focus": [
+    {
+      "item": "US CPI",
+      "type": "Report",
+      "importance": "High",
+      "usd_impact": "+",
+      "status": "Upcoming"
+    }
+  ],
+
+  "key_options_levels": {
+    "support_zone": "1.0700 – 1.0750",
+    "resistance_zone": "1.0950 – 1.1000",
+    "note": "Large option interest and gamma exposure"
+  },
+
+  "forecast_range": {
+    "one_week": {
+      "range": "1.1600 – 1.1800",
+      "probability_pct": 80
+    },
+    "one_month": {
+      "range": "1.1500 – 1.1900",
+      "probability_pct": 80
+    }
+  },
+
+  "fed_policy_balance": {
+    "hawkish_pct": 50,
+    "dovish_pct": 50,
+    "net_bias": "Dovish"
+  },
+
+  "status": {
+    "last_update": "2026-02-04 13:45 GMT",
+    "next_review": "2026-02-05 08:00 GMT",
+    "update_mode": "Mixed"
+  }
+}
