@@ -1,6 +1,6 @@
 {
   "market_regime": {
-    "risk_mode": "Risk-On",
+    "risk_mode": "Risk-OFF",
     "volatility": "Elevated"
   },
 
