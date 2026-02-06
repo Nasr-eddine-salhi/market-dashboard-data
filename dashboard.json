@@ -20,14 +20,14 @@
     "item": "US Michi. 1 Yr Inflation (Feb)",
     "type": "Report",
     "importance": "High",
-    "usd_impact": "+",
+    "usd_impact": "-",
     "status": "3.5%"
   },
   {
     "item": "US Michi. Co.Sentiment (Feb)",
     "type": "Report",
     "importance": "High",
-    "usd_impact": "-",
+    "usd_impact": "+",
     "status": "57.3"
   }
 ],
