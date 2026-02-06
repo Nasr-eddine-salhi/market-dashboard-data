@@ -7,7 +7,7 @@
   "eurusd_value": {
     "fair_value": 1.1800,
     "spot": 1.1790,
-    "deviation_pct": 0.69,
+    "deviation_pct": 0.08,
     "valuation": "Undervalued"
   },
 
