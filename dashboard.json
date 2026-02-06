@@ -5,47 +5,54 @@
   },
 
   "eurusd_value": {
-    "fair_value": 1.1812,
-    "spot": 1.0895,
+    "fair_value": 1.1800,
+    "spot": 1.1790,
     "deviation_pct": 0.69,
-    "valuation": "Overvalued"
+    "valuation": "Undervalued"
   },
 
   "trader_focus": {
-    "theme": "Market focused on US labor market and Fed reaction"
+    "theme": "Market focused softening jobs picture, with the Fed waiting for clearer labor weakness before cutting rates."
   },
 
   "todays_focus": [
-    {
-      "item": "US CPI",
-      "type": "Report",
-      "importance": "High",
-      "usd_impact": "+",
-      "status": "Upcoming"
-    }
-  ],
+  {
+    "item": "US Michi. 1 Yr Inflation (Feb)",
+    "type": "Report",
+    "importance": "High",
+    "usd_impact": "+",
+    "status": "Upcoming"
+  },
+  {
+    "item": "US Michi. Co.Sentiment (Feb)",
+    "type": "Report",
+    "importance": "High",
+    "usd_impact": "-",
+    "status": "Upcoming"
+  }
+],
 
   "key_options_levels": {
-    "support_zone": "1.0700 – 1.0750",
-    "resistance_zone": "1.0950 – 1.1000",
+    "support_zone": "1.1725 – 1.1750",
+    "resistance_zone": "1.1900 – 1.1925",
     "note": "Large option interest and gamma exposure"
   },
 
   "forecast_range": {
     "one_week": {
-      "range": "1.1600 – 1.1800",
-      "probability_pct": 80
+      "range": "1.1677 – 1.1919",
+      "probability_pct": 78.4
     },
     "one_month": {
-      "range": "1.1500 – 1.1900",
-      "probability_pct": 80
+      "range": "1.1583 – 1.2030",
+      "probability_pct": 75.8
     }
   },
 
   "fed_policy_balance": {
-    "hawkish_pct": 50,
-    "dovish_pct": 50,
-    "net_bias": "Dovish"
+    "hawkish_pct": 68.3,
+    "dovish_pct": 31.7,
+    "net_bias": "HAWKISH"
   },
 
   "status": {
