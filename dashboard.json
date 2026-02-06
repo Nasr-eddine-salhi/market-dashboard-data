@@ -1,4 +1,4 @@
-{
+ {
   "market_regime": {
     "risk_mode": "Risk-OFF",
     "volatility": "Elevated"
@@ -21,14 +21,14 @@
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "3.5%"
+    "status": "3.5% vs Exp 4%"
   },
   {
     "item": "US Michi. Co.Sentiment (Feb)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "+",
-    "status": "57.3"
+    "status": "57.3 vs Exp 55"
   }
 ],
 
