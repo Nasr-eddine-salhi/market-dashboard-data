@@ -5,7 +5,7 @@
   },
 
   "eurusd_value": {
-    "fair_value": 1.1800,
+    "fair_value": 1.1900,
     "spot": 1.1790,
     "deviation_pct": 0.08,
     "valuation": "Undervalued"
@@ -50,8 +50,8 @@
   },
 
   "fed_policy_balance": {
-    "hawkish_pct": 68.3,
-    "dovish_pct": 31.7,
+    "hawkish_pct": 68.2,
+    "dovish_pct": 31.8,
     "net_bias": "HAWKISH"
   },
 
