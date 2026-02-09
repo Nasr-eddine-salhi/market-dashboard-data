@@ -1,56 +1,63 @@
-{
+ {
   "market_regime": {
     "risk_mode": "Risk-OFF",
     "volatility": "Elevated"
   },
 
   "eurusd_value": {
-    "fair_value": 1.1812,
-    "spot": 1.0895,
-    "deviation_pct": 0.69,
-    "valuation": "Overvalued"
+    "fair_value": 1.1900,
+    "spot": 1.1858,
+    "deviation_pct": 0.08,
+    "valuation": "Undervalued"
   },
 
   "trader_focus": {
-    "theme": "Market focused on US labor market and Fed reaction"
+    "theme": "Market focused softening jobs picture, with the Fed waiting for clearer labor weakness before cutting rates."
   },
 
   "todays_focus": [
-    {
-      "item": "US CPI",
-      "type": "Report",
-      "importance": "High",
-      "usd_impact": "+",
-      "status": "Upcoming"
-    }
-  ],
+  {
+    "item": "US Michi. 1 Yr Inflation (Feb)",
+    "type": "Report",
+    "importance": "High",
+    "usd_impact": "(Prev)",
+    "status": "3.5% vs Exp 4%"
+  },
+  {
+    "item": "US Michi. Co.Sentiment (Feb)",
+    "type": "Report",
+    "importance": "High",
+    "usd_impact": "(Prev)",
+    "status": "57.3 vs Exp 55"
+  }
+],
 
   "key_options_levels": {
-    "support_zone": "1.0700 – 1.0750",
-    "resistance_zone": "1.0950 – 1.1000",
+    "support_zone": "1.1725 – 1.1750",
+    "resistance_zone": "1.1900 – 1.1925",
     "note": "Large option interest and gamma exposure"
   },
 
   "forecast_range": {
     "one_week": {
-      "range": "1.1600 – 1.1800",
-      "probability_pct": 80
+      "range": "1.1677 – 1.1919",
+      "probability_pct": 78.4
     },
     "one_month": {
-      "range": "1.1500 – 1.1900",
-      "probability_pct": 80
+      "range": "1.1583 – 1.2030",
+      "probability_pct": 75.8
     }
   },
 
   "fed_policy_balance": {
-    "hawkish_pct": 50,
-    "dovish_pct": 50,
-    "net_bias": "Dovish"
+    "hawkish_pct": 68.2,
+    "dovish_pct": 31.8,
+    "net_bias": "HAWKISH"
   },
 
   "status": {
-    "last_update": "2026-02-04 13:45 GMT",
-    "next_review": "2026-02-05 08:00 GMT",
+    "last_update": "2026-02-09 08:00 GMT",
+    "next_review": "2026-02-10 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
