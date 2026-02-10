@@ -1,4 +1,4 @@
- {
+i {
   "market_regime": {
     "risk_mode": "Risk-OFF",
     "volatility": "Elevated"
@@ -21,14 +21,14 @@
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "0.0% vs Exp. 0.4%"
   },
   {
     "item": "ADP Employment Change Weekly",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "6.50k"
   }
 ],
 
