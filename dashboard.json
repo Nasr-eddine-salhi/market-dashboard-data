@@ -1,4 +1,4 @@
-i {
+{
   "market_regime": {
     "risk_mode": "Risk-OFF",
     "volatility": "Elevated"
@@ -17,18 +17,18 @@ i {
 
   "todays_focus": [
   {
-    "item": "Retail Sales (MoM) (Dec)",
+    "item": "Nonfarm Payrolls (Jan) Exp. 66k",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "0.0% vs Exp. 0.4%"
+    "status": "Upcoming"
   },
   {
-    "item": "ADP Employment Change Weekly",
+    "item": "Unemployment Rate (Jan) Exp. 4.4%",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "6.50k"
+    "status": "Upcoming"
   }
 ],
 
@@ -56,8 +56,8 @@ i {
   },
 
   "status": {
-    "last_update": "2026-02-10 08:00 GMT",
-    "next_review": "2026-02-11 08:00 GMT",
+    "last_update": "2026-02-11 08:00 GMT",
+    "next_review": "2026-02-12 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
