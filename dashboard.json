@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "Initial Jobless Claims (Exp.223k)",
+    "item": "Initial Jobless Claims",
     "type": "Report",
     "importance": "High",
-    "usd_impact": "+",
-    "status": "Upcoming"
+    "usd_impact": "-",
+    "status": "Actual 227k vs Exp.222k"
   },
   {
     "item": "Continuing Jobless Claims (Exp.1850k)",
     "type": "Report",
     "importance": "High",
-    "usd_impact": "+",
-    "status": "Upcoming"
+    "usd_impact": "-",
+    "status": "Actual 1862k vs Exp. 1850k"
   }
 ],
 
