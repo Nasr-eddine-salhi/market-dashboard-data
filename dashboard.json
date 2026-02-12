@@ -5,7 +5,7 @@
   },
 
   "eurusd_value": {
-    "fair_value": 1.1970,
+    "fair_value": 1.1800,
     "spot": 1.1905,
     "deviation_pct": 0.08,
     "valuation": "Undervalued"
@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "Nonfarm Payrolls (Jan) Exp. 66k",
+    "item": "Nonfarm Payrolls (Jan)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 130k vs 66k Exp."
   },
   {
     "item": "Unemployment Rate (Jan) Exp. 4.4%",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 4.3% vs 4.4% Exp."
   }
 ],
 
