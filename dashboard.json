@@ -50,8 +50,8 @@
   },
 
   "fed_policy_balance": {
-    "hawkish_pct": 68.2,
-    "dovish_pct": 31.8,
+    "hawkish_pct": 75.2,
+    "dovish_pct": 24.8,
     "net_bias": "HAWKISH"
   },
 
