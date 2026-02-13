@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "Initial Jobless Claims",
+    "item": "U.S. Core Consumer Price Index (CPI) YoY (Exp. 2,5%)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Actual 227k vs Exp.222k"
+    "status": "Upcoming"
   },
   {
-    "item": "Continuing Jobless Claims (Exp.1850k)",
+    "item": "U.S. Consumer Price Index (CPI) MoM (Exp. 0,3%)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Actual 1862k vs Exp. 1850k"
+    "status": "Upcoming"
   }
 ],
 
@@ -56,8 +56,8 @@
   },
 
   "status": {
-    "last_update": "2026-02-12 08:00 GMT",
-    "next_review": "2026-02-13 08:00 GMT",
+    "last_update": "2026-02-13 08:00 GMT",
+    "next_review": "2026-02-16 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
