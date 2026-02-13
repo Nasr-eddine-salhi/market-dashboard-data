@@ -1,0 +1,14 @@
+**Run : 
+
+git pull origin main         or this >>>>  git pull origin main --rebase
+
+
+**Press ESC (once)
+
+**Type exactly >     :wq
+
+**Then Press Enter
+
+**Then Push again >    git push origin main
+
+
