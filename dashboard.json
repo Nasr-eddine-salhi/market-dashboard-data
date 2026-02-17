@@ -6,7 +6,7 @@
 
   "eurusd_value": {
     "fair_value": 1.1900,
-    "spot": 1.1905,
+    "spot": 1.1840,
     "deviation_pct": 0.08,
     "valuation": "Undervalued"
   },
@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "US - Holiday",
-    "type": "-",
-    "importance": "-",
+    "item": "ADP Employment Change Weekly",
+    "type": "Report",
+    "importance": "M",
     "usd_impact": "-",
-    "status": "-"
+    "status": "Upcoming"
   },
   {
-    "item": "US - Holiday",
-    "type": "-",
-    "importance": "-",
+    "item": "1.22 Billions EUR of Options are Expiring at 1.1900",
+    "type": "Options",
+    "importance": "High",
     "usd_impact": "-",
-    "status": "-"
+    "status": "Ongoing"
   }
 ],
 
@@ -56,8 +56,8 @@
   },
 
   "status": {
-    "last_update": "2026-02-16 08:00 GMT",
-    "next_review": "2026-02-17 08:00 GMT",
+    "last_update": "2026-02-17 08:00 GMT",
+    "next_review": "2026-02-18 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
