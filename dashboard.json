@@ -6,7 +6,7 @@
 
   "eurusd_value": {
     "fair_value": 1.1900,
-    "spot": 1.1905,
+    "spot": 1.1840,
     "deviation_pct": 0.08,
     "valuation": "Undervalued"
   },
@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "US - Holiday",
-    "type": "-",
-    "importance": "-",
+    "item": "Durable Goods Orders (MoM) (Dec)",
+    "type": "Report",
+    "importance": "H",
     "usd_impact": "-",
-    "status": "-"
+    "status": "Upcoming"
   },
   {
-    "item": "US - Holiday",
-    "type": "-",
-    "importance": "-",
+    "item": "Building Permits (Dec)",
+    "type": "Report",
+    "importance": "High",
     "usd_impact": "-",
-    "status": "-"
+    "status": "Upcoming"
   }
 ],
 
@@ -50,14 +50,14 @@
   },
 
   "fed_policy_balance": {
-    "hawkish_pct": 75.2,
-    "dovish_pct": 24.8,
+    "hawkish_pct": 78.0,
+    "dovish_pct": 22.0,
     "net_bias": "HAWKISH"
   },
 
   "status": {
-    "last_update": "2026-02-16 08:00 GMT",
-    "next_review": "2026-02-17 08:00 GMT",
+    "last_update": "2026-02-18 08:00 GMT",
+    "next_review": "2026-02-19 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
