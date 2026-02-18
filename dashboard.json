@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "ADP Employment Change Weekly",
+    "item": "Durable Goods Orders (MoM) (Dec)",
     "type": "Report",
-    "importance": "M",
+    "importance": "H",
     "usd_impact": "-",
-    "status": "10.250K"
+    "status": "Upcoming"
   },
   {
-    "item": "1.22 Billions EUR of Options are Expiring at 1.1900",
-    "type": "Options",
+    "item": "Building Permits (Dec)",
+    "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Ongoing"
+    "status": "Upcoming"
   }
 ],
 
@@ -56,8 +56,8 @@
   },
 
   "status": {
-    "last_update": "2026-02-17 08:00 GMT",
-    "next_review": "2026-02-18 08:00 GMT",
+    "last_update": "2026-02-18 08:00 GMT",
+    "next_review": "2026-02-19 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
