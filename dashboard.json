@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "Durable Goods Orders (MoM) (Dec)",
+    "item": "Philadelphia Fed Manufacturing Index (Feb)",
     "type": "Report",
     "importance": "H",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 16.3 vs Exp. 7.5"
   },
   {
     "item": "Building Permits (Dec)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 206k vs Exp. 223K"
   }
 ],
 
