@@ -17,24 +17,24 @@
 
   "todays_focus": [
   {
-    "item": "Philadelphia Fed Manufacturing Index (Feb)",
+    "item": "Core PCE Price Index (MoM) (Exp. 0,3%)",
     "type": "Report",
     "importance": "H",
     "usd_impact": "-",
-    "status": "Actual 16.3 vs Exp. 7.5"
+    "status": "Upcoming"
   },
   {
-    "item": "Building Permits (Dec)",
+    "item": "GDP (QoQ) (Q4) Exp. 2,8%",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Actual 206k vs Exp. 223K"
+    "status": "Upcoming"
   }
 ],
 
   "key_options_levels": {
-    "support_zone": "1.1820 – 1.1850",
-    "resistance_zone": "1.1900 – 1.1925",
+    "support_zone": "1.1750 – 1.1725",
+    "resistance_zone": "1.1775 – 1.1800",
     "note": "Large option interest and gamma exposure"
   },
 
@@ -56,8 +56,8 @@
   },
 
   "status": {
-    "last_update": "2026-02-18 08:00 GMT",
-    "next_review": "2026-02-19 08:00 GMT",
+    "last_update": "2026-02-20 08:00 GMT",
+    "next_review": "2026-02-23 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
