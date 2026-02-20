@@ -5,7 +5,7 @@
   },
 
   "eurusd_value": {
-    "fair_value": 1.1900,
+    "fair_value": 1.1800,
     "spot": 1.1840,
     "deviation_pct": 0.08,
     "valuation": "Undervalued"
@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "Core PCE Price Index (MoM) (Exp. 0,3%)",
+    "item": "Core PCE Price Index (MoM)",
     "type": "Report",
     "importance": "H",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 0,4% vs Exp. 0,3%"
   },
   {
-    "item": "GDP (QoQ) (Q4) Exp. 2,8%",
+    "item": "GDP (QoQ) (Q4)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 1,4% vs Exp. 2,8%"
   }
 ],
 
