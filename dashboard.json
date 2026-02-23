@@ -5,7 +5,7 @@
   },
 
   "eurusd_value": {
-    "fair_value": 1.1900,
+    "fair_value": 1.1800,
     "spot": 1.1840,
     "deviation_pct": 0.08,
     "valuation": "Undervalued"
@@ -17,24 +17,24 @@
 
   "todays_focus": [
   {
-    "item": "Durable Goods Orders (MoM) (Dec)",
+    "item": "Core PCE Price Index (MoM)",
     "type": "Report",
     "importance": "H",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 0,4% vs Exp. 0,3%"
   },
   {
-    "item": "Building Permits (Dec)",
+    "item": "GDP (QoQ) (Q4)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 1,4% vs Exp. 2,8%"
   }
 ],
 
   "key_options_levels": {
-    "support_zone": "1.1820 – 1.1850",
-    "resistance_zone": "1.1900 – 1.1925",
+    "support_zone": "1.1750 – 1.1725",
+    "resistance_zone": "1.1775 – 1.1800",
     "note": "Large option interest and gamma exposure"
   },
 
@@ -56,8 +56,8 @@
   },
 
   "status": {
-    "last_update": "2026-02-18 08:00 GMT",
-    "next_review": "2026-02-19 08:00 GMT",
+    "last_update": "2026-02-20 08:00 GMT",
+    "next_review": "2026-02-23 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
