@@ -5,7 +5,7 @@
   },
 
   "eurusd_value": {
-    "fair_value": 1.1800,
+    "fair_value": 1.1900,
     "spot": 1.1840,
     "deviation_pct": 0.08,
     "valuation": "Undervalued"
@@ -17,24 +17,24 @@
 
   "todays_focus": [
   {
-    "item": "Core PCE Price Index (MoM)",
-    "type": "Report",
-    "importance": "H",
+    "item": "we have 900M EUR of Options are expiring at 1,1845",
+    "type": "Options",
+    "importance": "-",
     "usd_impact": "-",
-    "status": "Actual 0,4% vs Exp. 0,3%"
+    "status": "-"
   },
   {
-    "item": "GDP (QoQ) (Q4)",
-    "type": "Report",
-    "importance": "High",
+    "item": "-",
+    "type": "-",
+    "importance": "-",
     "usd_impact": "-",
-    "status": "Actual 1,4% vs Exp. 2,8%"
+    "status": "-"
   }
 ],
 
   "key_options_levels": {
-    "support_zone": "1.1750 – 1.1725",
-    "resistance_zone": "1.1775 – 1.1800",
+    "support_zone": "1.1800 – 1.1775",
+    "resistance_zone": "1.1875 – 1.1850",
     "note": "Large option interest and gamma exposure"
   },
 
@@ -56,8 +56,8 @@
   },
 
   "status": {
-    "last_update": "2026-02-20 08:00 GMT",
-    "next_review": "2026-02-23 08:00 GMT",
+    "last_update": "2026-02-23 08:00 GMT",
+    "next_review": "2026-02-24 08:00 GMT",
     "update_mode": "Mixed"
   }
 }
