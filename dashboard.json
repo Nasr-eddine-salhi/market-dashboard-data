@@ -17,18 +17,18 @@
 
   "todays_focus": [
   {
-    "item": "we have 1B EUR of Options are expiring at 1,1780",
+    "item": "we have 2B EUR of Options are expiring at 1,1800",
     "type": "Options",
     "importance": "-",
     "usd_impact": "-",
     "status": "-"
   },
   {
-    "item": "-",
-    "type": "-",
-    "importance": "-",
+    "item": "Initial Jobless Claims Exp.(217k)",
+    "type": "Report",
+    "importance": "High",
     "usd_impact": "-",
-    "status": "-"
+    "status": "Upcoming"
   }
 ],
 
