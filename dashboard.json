@@ -24,11 +24,11 @@
     "status": "-"
   },
   {
-    "item": "PPI (MoM) (Jan) Exp.(0.3%)",
+    "item": "PPI (MoM) (Jan)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
-    "status": "Upcoming"
+    "status": "Actual 0.5% vs Exp.0.3%"
   }
 ],
 
