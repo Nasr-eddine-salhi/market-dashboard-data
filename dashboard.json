@@ -12,19 +12,19 @@
   },
 
   "trader_focus": {
-    "theme": "Market focused softening jobs picture, with the Fed waiting for clearer labor weakness before cutting rates."
+    "theme": "Market focused on Iran Risks (Geo Risk)."
   },
 
   "todays_focus": [
   {
-    "item": "we have 2B EUR of Options are expiring at 1,1800",
+    "item": "we have Another 2.11 B EUR of Options are expiring at 1,1750",
     "type": "Options",
     "importance": "-",
     "usd_impact": "-",
     "status": "-"
   },
   {
-    "item": "Initial Jobless Claims Exp.(217k)",
+    "item": "ISM Manufacturing PMI (Feb)",
     "type": "Report",
     "importance": "High",
     "usd_impact": "-",
@@ -33,8 +33,8 @@
 ],
 
   "key_options_levels": {
-    "support_zone": "1.1800 – 1.1775",
-    "resistance_zone": "1.1875 – 1.1850",
+    "support_zone": "1.1650 – 1.1625",
+    "resistance_zone": "1.1750 – 1.17600",
     "note": "Large option interest and gamma exposure"
   },
 
